@@ -1,2 +1,10 @@
 *.dart linguist-language=Dart
 *.cpp linguist-detectable=false
+android/* linguist-vendored
+ios/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+web/* linguist-vendored
+windows/* linguist-vendored
+build/* linguist-vendored
+.dart_tool/* linguist-vendored
